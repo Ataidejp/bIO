@@ -1,0 +1,43 @@
+html, body{
+    height: 100%;
+    width:100%;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    color:white;
+}
+#mainMenu{
+    max-width: 100%;
+    max-height: auto;
+   
+}
+
+li a{
+    text-decoration: none;
+    font-size: 3.5vw;
+    color:blue;
+    margin: 10px;   
+    border:1px solid white;
+}
+a:hover{
+    color:white;
+}
+.focus {
+    color: white;
+
+  }
+.texto{
+    margin: 30px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    display: inline;
+   
+    
+}
+
